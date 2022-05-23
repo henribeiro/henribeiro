@@ -2,7 +2,7 @@
 
 ##
 
-<div align="center" style="display: inline_block">
+<div>
   
   <a href="https://github.com/henribeiro">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
