@@ -1,4 +1,4 @@
-### Olá!!! Eu me chamo José Henrique e sou estudante de Sistemas para Internet 🖖🏼
+### Olá!!! Eu me chamo José Henrique e sou estudante de Análise e Desenvolvimento de Sistemas 🖖🏼
 
 ##
 
